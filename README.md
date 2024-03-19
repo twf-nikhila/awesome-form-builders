@@ -9,6 +9,7 @@ Here you get a detailed comparison of features, pricing, and comparision each to
 ## Table of Contents
 - [What is a Form Builder?](#what-is-a-form-builder)
 - [Form Builders](#form-builders)
+  - [FormNX](#1-formnx)
 - [Contributing](#contributing)
 
 ## What is a Form Builder?
