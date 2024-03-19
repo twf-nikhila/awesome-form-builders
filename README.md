@@ -8,6 +8,7 @@ Here you get a detailed comparison of features, pricing, and comparision each to
 
 ## Table of Contents
 - [What is a Form Builder?](#what-is-a-form-builder)
+- [Form Builder Features](#form-builder-features)
 - [Form Builders](#form-builders)
   - [FormNX](#1-formnx)
 - [Contributing](#contributing)
@@ -15,9 +16,7 @@ Here you get a detailed comparison of features, pricing, and comparision each to
 ## What is a Form Builder?
 Form builders allow you to create forms without writing code. Different tools provide different methods to create forms, customization & integration capabilities.
 
-## Form Builders
-
-### Feature List
+## Form Builder Features
 
 Use features mentioned below for reference, if any features missing please add them in alphabetical order.
 
@@ -51,6 +50,8 @@ Legend:
 - ✅: Yes (Available in Free Version)
 - 💰: Yes (Pro/Paid Feature Only)
 - ❌: No / Coming Soon
+
+## Form Builders
 
 ### 1. FormNX
 
