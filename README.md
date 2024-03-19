@@ -56,7 +56,7 @@ Legend:
 
 - **Website:** [https://formnx.com/](https://formnx.com/)
 - **Free Plan:** ✅
-- **Minimum Price:** $89 Lifetime, $15 P/M
+- **Starting Price:** $89 Lifetime, $15 P/M
 - **Interface Type:** Drag-n-Drop Builder without coding.
 - **Features:**
   - Automatic Reference Number: ✅
